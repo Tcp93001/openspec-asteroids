@@ -97,4 +97,4 @@
 - [ ] 12.3 Test all 4 power-ups function correctly
 - [ ] 12.4 Test high score persistence across page refresh
 - [ ] 12.5 Test audio plays on supported browsers
-- [ ] 12.6 Commit and push to GitHub repo
+- [x] 12.6 Commit and push to GitHub repo
